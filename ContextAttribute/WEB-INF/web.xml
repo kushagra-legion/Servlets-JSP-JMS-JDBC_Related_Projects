@@ -1,0 +1,17 @@
+
+
+
+<web-app> 
+<servlet>  
+<servlet-name>ContextAttribute</servlet-name>  
+<servlet-class>ContextAttribute</servlet-class>  
+</servlet>  
+  
+<servlet-mapping>  
+<servlet-name>ContextAttribute</servlet-name>  
+<url-pattern>/hit</url-pattern>  
+</servlet-mapping>  
+
+    
+</web-app>  
+  
